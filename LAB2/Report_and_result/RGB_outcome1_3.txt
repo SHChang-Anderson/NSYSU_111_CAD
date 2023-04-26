@@ -1,0 +1,24 @@
+state : 1 v14 v169 v169
+state : 2 v13 v169 v169
+state : 2 v16 v169 v14
+state : 3 v12 v169 v169
+state : 4 v8 v169 v169
+state : 4 v15 v12 v13
+state : 5 v7 v169 v169
+state : 5 v10 v169 v8
+state : 5 v17 v15 v16
+state : 6 v6 v169 v169
+state : 7 v2 v169 v169
+state : 7 v9 v6 v7
+state : 8 v1 v169 v169
+state : 8 v11 v9 v10
+state : 9 v4 v1 v2
+state : 9 v3 v169 v169
+state : 10 v5 v3 v4
+*****************************
+*    Resource Constraint    *
+*                           *
+*     Mult Constraint:1     *
+*     Add  Constraint:3     *
+*                           *
+*****************************
